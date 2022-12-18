@@ -3,5 +3,5 @@
 > Status do projeto: Em desenvolvimento.
 
 ```
-Texto aleatório para testar marcação
+node app.js
 ```
